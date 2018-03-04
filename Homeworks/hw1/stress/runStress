@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+while (true); do
+   python3 gen.py > input
+   .././mul < input > output1
+   python3 pymul.py < input > output2
+   if (diff output1 output2); then
+      echo "OK"
+   else
+      break
+   fi
+done

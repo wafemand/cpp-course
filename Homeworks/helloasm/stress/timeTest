@@ -1,0 +1,27 @@
+#!/bin/bash
+
+python3 gen.py > input
+echo "gen ok"
+
+start=$(date +%s%N)
+
+for ((i = 0; i < 1; i++)); do
+#   python3 gen.py > input
+#   .././add < input > output1
+   .././mul < input > output1
+done
+
+end=$(date +%s%N)
+echo $((($end - $start)/1000))
+start=$(date +%s%N)
+
+
+for ((i = 0; i < 1; i++)); do
+#   python3 gen.py > input
+   python3 pyadd.py < input > output1
+#   python3 pymul.py < input > output1
+done
+
+end=$(date +%s%N)
+echo $((($end - $start)/1000))
+
