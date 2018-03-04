@@ -1,0 +1,4 @@
+/home/andrey/cpp-course/cpp-course/Homeworks/helloasm/CMakeFiles/edit_cache.dir
+/home/andrey/cpp-course/cpp-course/Homeworks/helloasm/CMakeFiles/rebuild_cache.dir
+/home/andrey/cpp-course/cpp-course/Homeworks/helloasm/CMakeFiles/mul.dir
+/home/andrey/cpp-course/cpp-course/Homeworks/helloasm/CMakeFiles/sub.dir

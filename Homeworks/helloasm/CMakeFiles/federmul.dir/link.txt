@@ -1,0 +1,1 @@
+/usr/bin/ld CMakeFiles/federmul.dir/federmul.asm.o -o federmul

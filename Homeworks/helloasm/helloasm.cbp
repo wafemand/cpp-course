@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="helloasm" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="federmul">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/federmul" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 federmul" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="federmul/fast">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/federmul" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 federmul/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="hello">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/hello" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 hello" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="hello/fast">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/hello" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 hello/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="add">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/add" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 add" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="add/fast">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/add" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 add/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sub">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/sub" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 sub" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sub/fast">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/sub" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 sub/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mul">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/mul" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 mul" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mul/fast">
+         <Option output="/home/andrey/cpp-course/cpp-course/helloasm/mul" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/andrey/cpp-course/cpp-course/helloasm" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 mul/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/andrey/cpp-course/cpp-course/helloasm/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/add.asm">
+         <Option target="add"/>
+      </Unit>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/federmul.asm">
+         <Option target="federmul"/>
+      </Unit>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/hello.asm">
+         <Option target="hello"/>
+      </Unit>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/mul.asm">
+         <Option target="mul"/>
+      </Unit>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/sub.asm">
+         <Option target="sub"/>
+      </Unit>
+      <Unit filename="/home/andrey/cpp-course/cpp-course/helloasm/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
