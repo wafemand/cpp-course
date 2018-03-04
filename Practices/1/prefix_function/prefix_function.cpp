@@ -1,3 +1,11 @@
+/*
+Find all occurrences of string argv[2] in file with name argv[1].
+Time: O(m + n)
+Memory: O(m)
+where 	n - size of file
+	m - size of string
+
+*/
 #include <iostream>
 #include <cstdio>
 #include <vector>
