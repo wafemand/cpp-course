@@ -1,1 +1,0 @@
-/usr/bin/ld CMakeFiles/mul.dir/src/mul.asm.o -o mul
